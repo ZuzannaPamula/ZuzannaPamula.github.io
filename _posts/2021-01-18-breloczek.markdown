@@ -4,9 +4,10 @@ title:  "Breloczek"
 date:   2021-01-18 09:17:58 +0200
 categories: jekyll update
 ---
-Celem ćwiczenia było zaprojektowanie świecącego breloczka. Projekt tworzony był w dwuosobowym zespole. 
 
 ![Render breloczka](/images/breloczek_render.png)
+
+Celem ćwiczenia było zaprojektowanie świecącego breloczka. Projekt tworzony był w dwuosobowym zespole. 
 
 Breloczek posiada jednostronną płytkę PCB z zamontowanym układem elektronicznym, w którym umieszczono widoczną diodę oraz włącznik. Całość umieściłyśmy w otwieranej obudowie, która umożliwia łatwą wymianę baterii.
 
