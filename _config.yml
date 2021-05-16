@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zuzanna Pamuła
-email: pamulazuzanna@gmail.com
+author:
+	email: pamulazuzanna@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jestem studentką Mechatronki na Wydziale Mechatroniki Politechniki Warszawskiej. 
   Interesuję się projektowaniem 3D i programowaniem. 
