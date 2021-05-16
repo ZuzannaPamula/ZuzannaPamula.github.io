@@ -4,5 +4,5 @@
 
 layout: default
 title: Moje Projekty
-permalink: /projects/
+
 ---
