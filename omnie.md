@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Zuzanna Pamuła](/images/pamula_zdjecie.png)
 
-Jestem studentką drugiego roku Mechatroniki na Wydziale Mechatroniki Politechniki Warszawskiej. 
+Jestem studentką piątego roku Mechatroniki na Wydziale Mechatroniki Politechniki Warszawskiej. 
 
 Interesuje mnie projektowanie 3D, techniki przyrostowe i programowanie. Niektóre z moich projektów można znaleźć na tej stronie. 
 
